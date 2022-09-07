@@ -1,0 +1,78 @@
+﻿ControlPanel@start@void @
+ControlPanel@evet_Count@delegate void @
+ControlPanel@Dispose@void @
+ControlPanel@IControl_Excute@bool @string key, List<string> value
+ControlPanel@IControl_Next@bool @
+ControlPanel@punch@void @List<string> value
+ControlPanel@punch_align@void @List<string> value
+ControlPanel@mix@void @List<string> value
+ControlPanel@mix_getVol@void @List<string> value
+ControlPanel@agar@void @List<string> value
+ControlPanel@broth@void @List<string> value
+ControlPanel@heat@void @List<string> value
+ControlPanel@image@void @List<string> value
+ControlPanel@gripper@void @List<string> value
+ControlPanel@dispensingTable01@void @List<string> value
+ControlPanel@dispensingTable02@void @List<string> value
+ControlPanel@incubationRack@void @List<string> value
+ControlPanel@panelRack@void @List<string> value
+ControlPanel@sampleDoor@void @List<string> value
+ControlPanel@panelDoor@void @List<string> value
+ControlPanel@table01Gripper@void @List<string> value
+ControlPanel@table02Gripper@void @List<string> value
+ControlPanel@opticHolder@void @List<string> value
+ControlPanel@getOptic@void @List<string> value
+ControlPanel@putOptic@void @List<string> value
+ControlPanel@opticMove@void @List<string> value
+ControlPanel@gripperInit@void @List<string> value
+ControlPanel@Laboratory@void @
+ControlPanel@Sequence@void @
+ControlPanel@peltier01@void @List<string> value
+ControlPanel@peltier02@void @List<string> value
+ControlPanel@peltier01CoolingFan@void @List<string> value
+ControlPanel@peltier02CoolingFan@void @List<string> value
+ControlPanel@peltier01HeatingFan@void @List<string> value
+ControlPanel@peltier02HeatingFan@void @List<string> value
+ControlPanel@heatFanAll@void @List<string> value
+ControlPanel@incubateHeat@void @List<string> value
+ControlPanel@incubateFan@void @List<string> value
+ControlPanel@adpManual@void @List<string> value
+ControlPanel@barout@void @List<string> value
+ControlPanel@barin@void @List<string> value
+ControlPanel@baraga@void @List<string> value
+ControlPanel@barsam@void @List<string> value
+PatialTest@PatialTest@@
+PatialTest@IControl_Excute@bool @string key, List<string> value
+PatialTest@IControl_Next@bool @
+Gripper@Gripper@@
+Gripper@IControl_Excute@bool @string key, List<string> value
+Gripper@IControl_Next@bool @
+Gripper@dispensing01@bool @
+Gripper@dispensing02@bool @
+Gripper@panelRack@bool @
+Gripper@incubationRack@bool @
+Gripper@table01Gripper@bool @
+Gripper@table02Gripper@bool @
+Gripper@OpticHolder@bool @
+Gripper@getOptic@bool @
+Gripper@putOptic@bool @
+Gripper@gripperInit@bool @
+Temperature@Temperature@@
+Temperature@IControl_Excute@bool @string key, List<string> value
+Temperature@IControl_Next@bool @
+Temperature@peltier01@bool @
+Temperature@peltier02@bool @
+Temperature@peltier01CoolingFan@bool @
+Temperature@peltier02CoolingFan@bool @
+Temperature@peltier01HeatingFan@bool @
+Temperature@peltier02HeatingFan@bool @
+Temperature@heatFanAll@bool @
+Temperature@incubateHeat@bool @
+Temperature@incubateFan@bool @
+ADP_Manual@ADP_Manual@@
+ADP_Manual@adp_move@void @
+ADP_Manual@IControl_Excute@bool @string key, List<string> value
+ADP_Manual@IControl_Next@bool @
+Barcode_Manual@Barcode_Manual@@
+Barcode_Manual@IControl_Excute@bool @string key, List<string> value
+Barcode_Manual@IControl_Next@bool @

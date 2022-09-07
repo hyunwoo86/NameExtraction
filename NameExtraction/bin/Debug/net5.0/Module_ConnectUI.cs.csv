@@ -1,0 +1,7 @@
+﻿Module_ConnectUI@camera_show@delegate void @
+Module_ConnectUI@EventTxUI@delegate void @string tx
+Module_ConnectUI@Dispose@void @
+Module_ConnectUI@Update_SystemDB@void @Dictionary<string, List<string>> value
+Module_ConnectUI@txUI@void @string str
+Module_ConnectUI@rxUI@void @string str
+Module_ConnectUI@update@void @Subject<Observer_ConnectUI_Subject> subject

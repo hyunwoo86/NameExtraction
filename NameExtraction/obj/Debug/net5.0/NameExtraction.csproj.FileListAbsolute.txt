@@ -1,0 +1,16 @@
+C:\Quantamatrix\NameExtraction\NameExtraction\bin\Debug\net5.0\NameExtraction.deps.json
+C:\Quantamatrix\NameExtraction\NameExtraction\bin\Debug\net5.0\NameExtraction.dll
+C:\Quantamatrix\NameExtraction\NameExtraction\bin\Debug\net5.0\ref\NameExtraction.dll
+C:\Quantamatrix\NameExtraction\NameExtraction\bin\Debug\net5.0\NameExtraction.pdb
+C:\Quantamatrix\NameExtraction\NameExtraction\obj\Debug\net5.0\NameExtraction.csproj.AssemblyReference.cache
+C:\Quantamatrix\NameExtraction\NameExtraction\obj\Debug\net5.0\NameExtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Quantamatrix\NameExtraction\NameExtraction\obj\Debug\net5.0\NameExtraction.AssemblyInfoInputs.cache
+C:\Quantamatrix\NameExtraction\NameExtraction\obj\Debug\net5.0\NameExtraction.AssemblyInfo.cs
+C:\Quantamatrix\NameExtraction\NameExtraction\obj\Debug\net5.0\NameExtraction.csproj.CoreCompileInputs.cache
+C:\Quantamatrix\NameExtraction\NameExtraction\obj\Debug\net5.0\NameExtraction.dll
+C:\Quantamatrix\NameExtraction\NameExtraction\obj\Debug\net5.0\ref\NameExtraction.dll
+C:\Quantamatrix\NameExtraction\NameExtraction\obj\Debug\net5.0\NameExtraction.pdb
+C:\Quantamatrix\NameExtraction\NameExtraction\bin\Debug\net5.0\NameExtraction.exe
+C:\Quantamatrix\NameExtraction\NameExtraction\bin\Debug\net5.0\NameExtraction.runtimeconfig.json
+C:\Quantamatrix\NameExtraction\NameExtraction\bin\Debug\net5.0\NameExtraction.runtimeconfig.dev.json
+C:\Quantamatrix\NameExtraction\NameExtraction\obj\Debug\net5.0\NameExtraction.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+﻿Culture@Dispose@void @
+Culture@start@void @
+Culture@CultureType@void @int type, int nPanel, int nSample, int nCase
+Culture@checkDispensing@bool @
+Culture@IClear_excute@bool @
+Culture@IClear_check@bool @
+Agar_Culture@Agar_Culture@@
+Agar_Culture@Update_SystemDB@void @Dictionary<string, List<string>> value
+Agar_Culture@SEQUNCE@bool @List<string> value
+Agar_Culture@EXCUTE@bool @
+Agar_Culture@IClear_excute@bool @
+Agar_Culture@IClear_check@bool @
+Broth_Culture@Broth_Culture@@
+Broth_Culture@SEQUNCE@bool @List<string> value
+Broth_Culture@EXCUTE@bool @
+Broth_Culture@Update_SystemDB@void @Dictionary<string, List<string>> value
+Broth_Culture@IClear_excute@bool @
+Broth_Culture@IClear_check@bool @
+Cooling@Cooling@@
+Cooling@Update_SystemDB@void @Dictionary<string, List<string>> value
+Cooling@SEQUNCE@bool @List<string> value
+Cooling@EXCUTE@bool @
+Cooling@GetSequence@bool @List<string> value
+Cooling@IClear_excute@bool @
+Cooling@IClear_check@bool @
+MainCulture@MainCulture@@
+MainCulture@checkDispensing@bool @
+MainCulture@Update_SystemDB@void @Dictionary<string, List<string>> value
+MainCulture@SEQUNCE@bool @List<string> value
+MainCulture@EXCUTE@bool @
+MainCulture@IClear_excute@bool @
+MainCulture@IClear_check@bool @
+CultureManual@CultureManual@@
+CultureManual@SEQUNCE@bool @List<string> value
+CultureManual@EXCUTE@bool @
+CultureManual@IClear_excute@bool @
+CultureManual@IClear_check@bool @

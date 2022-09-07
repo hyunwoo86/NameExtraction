@@ -1,0 +1,3 @@
+﻿Module_Bacteria@start@void @
+Module_Bacteria@Update_SystemDB@void @Dictionary<string, List<string>> value
+Module_Bacteria@changeBacteria@void @int slot, string shortName

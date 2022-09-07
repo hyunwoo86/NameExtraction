@@ -1,0 +1,89 @@
+﻿Module_Gripper@Dispose@void @
+Module_Gripper@start@void @
+Module_Gripper@DISPENSING_HOLDER@void @string getValue
+Module_Gripper@COOLING_HOLDER@void @string getValue
+Module_Gripper@OPTIC_HOLDER@void @string getValue
+Module_Gripper@GRIPPER_TEST@void @
+Module_Gripper@OPTIC_MOVE@void @int nMove
+Module_Gripper@CASSETTE_MOVE@void @int nMove, int nSlot
+Module_Gripper@MAIN_MOVE@void @int nMove, int nSlot
+Module_Gripper@DISPENSING01_MOVE@void @int nMove
+Module_Gripper@DISPENSING02_MOVE@void @int nMove
+Module_Gripper@GRIPPER_INIT@void @
+Module_Gripper@IClear_excute@bool @
+Module_Gripper@IClear_check@bool @
+DISPENSING_HOLDER@DISPENSING_HOLDER@@
+DISPENSING_HOLDER@Excute@bool @List<string> value
+DISPENSING_HOLDER@Next@bool @
+DISPENSING_HOLDER@IClear_excute@bool @
+DISPENSING_HOLDER@IClear_check@bool @
+COOLING_HOLDER@COOLING_HOLDER@@
+COOLING_HOLDER@Excute@bool @List<string> value
+COOLING_HOLDER@Next@bool @
+COOLING_HOLDER@IClear_excute@bool @
+COOLING_HOLDER@IClear_check@bool @
+OPTIC_HOLDER@OPTIC_HOLDER@@
+OPTIC_HOLDER@Excute@bool @List<string> value
+OPTIC_HOLDER@Next@bool @
+OPTIC_HOLDER@IClear_excute@bool @
+OPTIC_HOLDER@IClear_check@bool @
+GRIPPER_TEST@GRIPPER_TEST@@
+GRIPPER_TEST@Excute@bool @List<string> value
+GRIPPER_TEST@Next@bool @
+GRIPPER_TEST@IClear_excute@bool @
+GRIPPER_TEST@IClear_check@bool @
+OPTIC_GET@OPTIC_GET@@
+OPTIC_GET@Excute@bool @List<string> value
+OPTIC_GET@Next@bool @
+OPTIC_GET@IClear_excute@bool @
+OPTIC_GET@IClear_check@bool @
+OPTIC_PUT@OPTIC_PUT@@
+OPTIC_PUT@Excute@bool @List<string> value
+OPTIC_PUT@Next@bool @
+OPTIC_PUT@IClear_excute@bool @
+OPTIC_PUT@IClear_check@bool @
+CASSETTE_GET@CASSETTE_GET@@
+CASSETTE_GET@Excute@bool @List<string> value
+CASSETTE_GET@Next@bool @
+CASSETTE_GET@IClear_excute@bool @
+CASSETTE_GET@IClear_check@bool @
+CASSETTE_PUT@CASSETTE_PUT@@
+CASSETTE_PUT@Excute@bool @List<string> value
+CASSETTE_PUT@Next@bool @
+CASSETTE_PUT@IClear_excute@bool @
+CASSETTE_PUT@IClear_check@bool @
+MAIN_GET@MAIN_GET@@
+MAIN_GET@Excute@bool @List<string> value
+MAIN_GET@Next@bool @
+MAIN_GET@IClear_excute@bool @
+MAIN_GET@IClear_check@bool @
+MAIN_PUT@MAIN_PUT@@
+MAIN_PUT@Excute@bool @List<string> value
+MAIN_PUT@Next@bool @
+MAIN_PUT@IClear_excute@bool @
+MAIN_PUT@IClear_check@bool @
+DISPENSING01_GET@DISPENSING01_GET@@
+DISPENSING01_GET@Excute@bool @List<string> value
+DISPENSING01_GET@Next@bool @
+DISPENSING01_GET@IClear_excute@bool @
+DISPENSING01_GET@IClear_check@bool @
+DISPENSING02_GET@DISPENSING02_GET@@
+DISPENSING02_GET@Excute@bool @List<string> value
+DISPENSING02_GET@Next@bool @
+DISPENSING02_GET@IClear_excute@bool @
+DISPENSING02_GET@IClear_check@bool @
+DISPENSING01_PUT@DISPENSING01_PUT@@
+DISPENSING01_PUT@Excute@bool @List<string> value
+DISPENSING01_PUT@Next@bool @
+DISPENSING01_PUT@IClear_excute@bool @
+DISPENSING01_PUT@IClear_check@bool @
+DISPENSING02_PUT@DISPENSING02_PUT@@
+DISPENSING02_PUT@Excute@bool @List<string> value
+DISPENSING02_PUT@Next@bool @
+DISPENSING02_PUT@IClear_excute@bool @
+DISPENSING02_PUT@IClear_check@bool @
+GRIPPER_INIT@GRIPPER_INIT@@
+GRIPPER_INIT@Excute@bool @List<string> value
+GRIPPER_INIT@Next@bool @
+GRIPPER_INIT@IClear_excute@bool @
+GRIPPER_INIT@IClear_check@bool @

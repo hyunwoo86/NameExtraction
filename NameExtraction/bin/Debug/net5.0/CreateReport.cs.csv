@@ -1,0 +1,6 @@
+﻿CreateReport@start@void @
+CreateReport@@static extern int @char[] sampleID, char[] gramType, char[] dateTime, char[] path
+CreateReport@LRCNImport@static extern int @
+CreateReport@LRCNFinalize@static extern int @
+CreateReport@CreateImageDB@int @string sampleID, string type, string dateTime, string path
+CreateReport@reReporting@int @string sampleid, string date, string shortName, string panelCode, string chipType

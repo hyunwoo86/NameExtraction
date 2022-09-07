@@ -1,0 +1,52 @@
+﻿Module_ADDNEWSAMPLE@start@void @
+Module_ADDNEWSAMPLE@Module_ADDNEWSAMPLE@@
+Module_ADDNEWSAMPLE@Dispose@void @
+Module_ADDNEWSAMPLE@Update_SystemDB@void @Dictionary<string, List<string>> param
+Module_ADDNEWSAMPLE@Update_param@void @string paramID, Dictionary<string, string> param
+Module_ADDNEWSAMPLE@setInfo@void @string setinfo, bool bCommand = false
+Module_ADDNEWSAMPLE@add_sample@void @string setinfo
+Module_ADDNEWSAMPLE@add_panel@void @string setinfo
+Module_ADDNEWSAMPLE@add_update@void @string setinfo, bool rollback = false
+Module_ADDNEWSAMPLE@rollBack@void @
+Module_ADDNEWSAMPLE@click_button@void @string in_samplecode, string in_cartridgecode
+AddNewSample_Check@AddNewSample_Check@@
+AddNewSample_Check@functionName@string @
+AddNewSample_Check@apply@bool @string info
+AddNewSample_Check@excute@bool @
+AddNewSample_Check@makeSequence@bool @bool bSequence = true
+AddNewSample_Check@makeRollBackSequence@bool @
+AddNewSample_Check@rollback@bool @
+AddNewSample_Check@retrunParam@Dictionary<string, Dictionary<string, object>> @
+AddNewSample_Check@getParam@void @Dictionary<string, Dictionary<string, object>> param
+AddNewSample_Check@systemDB_update@void @Dictionary<string, List<string>> param
+AddNewSample_Sample@AddNewSample_Sample@@
+AddNewSample_Sample@functionName@string @
+AddNewSample_Sample@apply@bool @string info
+AddNewSample_Sample@excute@bool @
+AddNewSample_Sample@makeSequence@bool @bool bSequence = true
+AddNewSample_Sample@retrunParam@Dictionary<string, Dictionary<string, object>> @
+AddNewSample_Sample@getParam@void @Dictionary<string, Dictionary<string, object>> param
+AddNewSample_Sample@systemDB_update@void @Dictionary<string, List<string>> param
+AddNewSample_Sample@rollback@bool @
+AddNewSample_Sample@makeRollBackSequence@bool @
+AddNewSample_Sample@click_button@void @string in_samplecode, string in_cartridgecode
+AddNewSample_Panel@AddNewSample_Panel@@
+AddNewSample_Panel@functionName@string @
+AddNewSample_Panel@apply@bool @string info
+AddNewSample_Panel@excute@bool @
+AddNewSample_Panel@makeSequence@bool @bool bSequence = true
+AddNewSample_Panel@retrunParam@Dictionary<string, Dictionary<string, object>> @
+AddNewSample_Panel@getParam@void @Dictionary<string, Dictionary<string, object>> param
+AddNewSample_Panel@systemDB_update@void @Dictionary<string, List<string>> param
+AddNewSample_Panel@rollback@bool @
+AddNewSample_Panel@makeRollBackSequence@bool @
+AddNewSample_Update@AddNewSample_Update@@
+AddNewSample_Update@functionName@string @
+AddNewSample_Update@apply@bool @string info
+AddNewSample_Update@excute@bool @
+AddNewSample_Update@makeSequence@bool @bool bSequence = true
+AddNewSample_Update@makeRollBackSequence@bool @
+AddNewSample_Update@rollback@bool @
+AddNewSample_Update@retrunParam@Dictionary<string, Dictionary<string, object>> @
+AddNewSample_Update@getParam@void @Dictionary<string, Dictionary<string, object>> param
+AddNewSample_Update@systemDB_update@void @Dictionary<string, List<string>> param
